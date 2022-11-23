@@ -7,11 +7,13 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/yukai8765/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="discordapp.com/users/640102516738097163">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Kevin051596&style=flat-square&color=blue" alt=""/>
 </div>
 <br/>
 <br/>
