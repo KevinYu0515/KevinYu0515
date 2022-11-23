@@ -1,8 +1,8 @@
-### CONGRATULATION on finding this mysterious place, give YOU a high five
-<div align=center>
+<h3 align="center">:hear_no_evil::boom::sparkles:CONGRATULATION:sparkles::boom::hear_no_evil:<br/> You are finding this mysterious place, give YOU a high five </h3>
+<p align=center>
   <img src="https://media0.giphy.com/media/SkB1lImvleqBHLBWDZ/giphy.gif?cid=ecf05e47j4fnmpiuh1iukxcu7fxucrzbudrm8xdsqvqa6sef&rid=giphy.gif&ct=g" height="300" width="300"/>
-<div/>
-<div id="badges" align=center>
+<p/>
+<p id="badges" align=center>
   <a href="https://www.facebook.com/profile.php?id=100009946749327">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -14,22 +14,20 @@
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Kevin051596&style=flat-square&color=blue" alt=""/>
- <div/>
+<p/>
   
 ---
 ### Hi, Here is Kevin Lin Github.
 I’m currently learning in Feng Chia University. 
 I love climbing mountains and programming some intersting projects. 
-Now, I study on frontend and backend for buildimg web application. 
+Now, I study on frontend and backend for building web application. 
 Also, I join some programming competition.
 
-Email: marvelo.@gmail.com</br>
+:e-mail:Email: marvelo.@gmail.com</br>
   
 ---
- <div align="left">
   :hammer_and_wrench: Languages and Tools :
-  <div style="margin:10px">
-    <br/>
+  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,7 +52,6 @@ Email: marvelo.@gmail.com</br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <div>
 <div/>
                                                                                                                             
 ---
