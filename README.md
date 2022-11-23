@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/yukai8765/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="discordapp.com/users/640102516738097163">
+   <a href="https://discordapp.com/users/640102516738097163">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <br/>
