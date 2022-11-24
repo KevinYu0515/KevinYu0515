@@ -1,4 +1,4 @@
-<h3 align="center">:hear_no_evil::boom::sparkles: <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F77222&size=50&multiline=true&width=700&height=100&lines=CONGRATULATION"/> :sparkles::boom::hear_no_evil:<br/> You are finding this mysterious place, give YOU a high five </h3>
+<h3 align="center">:hear_no_evil::boom::sparkles:CONGRATULATION:sparkles::boom::hear_no_evil:<br/> You are finding this mysterious place, give YOU a high five </h3>
 <p align=center>
   <img src="https://media0.giphy.com/media/SkB1lImvleqBHLBWDZ/giphy.gif?cid=ecf05e47j4fnmpiuh1iukxcu7fxucrzbudrm8xdsqvqa6sef&rid=giphy.gif&ct=g" height="300" width="300"/>
 <p/>
