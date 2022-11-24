@@ -1,4 +1,4 @@
-<h3 align="center">:hear_no_evil::boom::sparkles:CONGRATULATION:sparkles::boom::hear_no_evil:<br/> You are finding this mysterious place, give YOU a high five </h3>
+<h3 align="center">:hear_no_evil::boom::sparkles: <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F77222&size=50&multiline=true&width=700&height=100&lines=CONGRATULATION"/> :sparkles::boom::hear_no_evil:<br/> You are finding this mysterious place, give YOU a high five </h3>
 <p align=center>
   <img src="https://media0.giphy.com/media/SkB1lImvleqBHLBWDZ/giphy.gif?cid=ecf05e47j4fnmpiuh1iukxcu7fxucrzbudrm8xdsqvqa6sef&rid=giphy.gif&ct=g" height="300" width="300"/>
 <p/>
@@ -17,7 +17,8 @@
 <p/>
   
 ---
-### Hi, Here is Kevin Lin Github.
+
+### Hi, Here is Kevin Lin Github. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29" height="29"/><br/>
 I’m currently learning in Feng Chia University. 
 I love climbing mountains and programming some intersting projects. 
 Now, I study on frontend and backend for building web application. 
