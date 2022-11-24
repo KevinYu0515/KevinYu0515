@@ -53,6 +53,7 @@ Also, I join some programming competition.
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>                                                                                 
 <div/>
                                                                                                                             
 ---
