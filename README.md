@@ -18,7 +18,7 @@
   
 ---
 
-### Hi, Here is Kevin Lin Github. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29" height="29"/><br/>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29" height="29"/> Hi, Here is Kevin Lin Github. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
 I’m currently learning in Feng Chia University. 
 I love climbing mountains and programming some intersting projects. 
 Now, I study on frontend and backend for building web application. 
